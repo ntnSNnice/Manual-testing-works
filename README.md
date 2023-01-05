@@ -1,12 +1,12 @@
 # Content    
-- [Introduction](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#introduction)
-- [Summary](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#summary) 
-- [Test Case Works for Air Imperial](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-case-works-for-meena-bazar)  
-  - [Test Cases](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-case-works-for-meena-bazar)   
-  - [Bug Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#bug-report) 
-  - [Test Case Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-case-report)  
-  - [Test Metrics](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-metrics)    
-  - [Mind Map](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#mind-map)    
+- [Introduction](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#introduction)
+- [Summary](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#summary) 
+- [Test Case Works for Air Imperial](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#test-case-works-for-air-imperial)  
+  - [Test Cases](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#test-cases)   
+  - [Bug Report](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#bug-report) 
+  - [Test Case Report](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#test-case-report)  
+  - [Test Metrics](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#test-metrics)    
+  - [Mind Map](https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/README.md#mind-map)    
 
 # Introduction
 This document explains how I have written Test Cases, Bug Report, Test Case Report, Test Metrics and Mind Maps on the websites. 
@@ -30,7 +30,7 @@ The Summary of all the manual testing works done for  the  websites are given be
 Here are some of the samples of the Test Cases.
 
 <p align="center">
-  <img src="https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/TestCases%2C%20BugReport%2C%20TestMetrics%2C%20MindMap%20for%20Meena%20Bazar/Test%20Cases-%20Meena%20Bazar.png" />
+  <img src="https://github.com/ntnSNnice/Test_case-Bug_report-Test_metrics-Mind_map-Projects/blob/main/TestCases%2C%20BugReport%2C%20TestMetrics%2C%20MindMap%20for%20Air%20Imperial/Test%20Case_Air%20Imperial.png" />
 </p>
 
 ### Bug Report
